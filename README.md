@@ -1,4 +1,4 @@
-# Program Sewa Kos
+# Program Sewa Kost
 Tugas Berpasangan Lab PBO
 
 # Anggota Kelompok
