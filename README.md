@@ -24,4 +24,10 @@ terdapat data kamar kost.
 
 setelah selesai, maka diakhir program akan muncul kata "terima kasih".
 
+# Gambar Model Diagram
+![GambarPackage](https://user-images.githubusercontent.com/81910399/200840026-dd6538ac-a0bd-4302-9d9d-9655ef566da5.PNG)
+
+
+
+
 # Link Youtube
